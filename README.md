@@ -19,3 +19,6 @@ Key characteristics of SPI:
 ## Project Overview
 - **SPI Module**: Implements the SPI protocol with a 12-bit data transfer capability.
 - **Testbench**: Verifies the functionality of the SPI module through simulation.
+
+- ![image](https://github.com/user-attachments/assets/040e2fe8-8347-4cc7-9934-3a3f75f57205)
+
